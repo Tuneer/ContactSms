@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ContactSms</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="alert">Alert</string>
+    <string name="add_temporary_contact">Add Temporary Contact</string>
+    <string name="userpic">userPIC</string>
+    <string name="send_message">Send Message</string>
+    <string name="no_contact_found">No Contact Found!</string>
+    <string name="refresh">Refresh</string>
+    <string name="send"><![CDATA[Send ->]]></string>
+    <string name="disconnected_msg">Network Disconnected</string>
+    <string name="no_message_found">No Message Found!</string>
+</resources>
